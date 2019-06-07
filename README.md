@@ -92,8 +92,7 @@ If this is your first time at a hackathon, it's probably best that you learn som
 - [A Beginner’s Guide to HTTP and REST](https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340) - A more in-depth guide on how to use REST APIs.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - An in-depth series of tutorials to learn how to code in Python. If you don't know what language to use, Python is a good start!
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) - If you want to ramp up quick on machine learning.
-- [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) - A beginner-friendly prediction competition.
-
+- [MNIST Dataset](https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) - A beginner-friendly image classification challenge. 
 
 ## Recommended Software
 
