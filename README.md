@@ -24,7 +24,7 @@ Use it to build your model and submit your validation set to our web server to s
 
 ## Quantitative Description of the Dataset
 
-Training/Test Set = 7,202 labeled cells
+Training/Test Set = 7,497 labeled cells
 
 Validation Set = 522 unlabeled cells
 
