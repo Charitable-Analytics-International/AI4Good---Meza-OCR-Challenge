@@ -22,6 +22,9 @@ Use it to build your model and submit your validation set to our web server to s
 - [Validation Web Server](http://mezademo.charitableanalytics.org:8080)
 
 
+As a reference Google Vision gives a score of 35.63%
+
+
 ## Quantitative Description of the Dataset
 
 Training/Test Set = 7,497 labeled cells
@@ -62,10 +65,15 @@ The repository is organized with the following structure :
 		|		|-> ...;...
 		|
 		|-> validation_set/
-				|
-				|-> 1.jpg
-				|-> 2.jpg
-				|-> ...
+		|		|
+		|		|-> 1.jpg
+		|		|-> 2.jpg
+		|		|-> ...
+		|
+		|
+		|
+		|-> google_vision_validation_predictions.txt
+
 
 ## Demo of Meza
 
