@@ -81,6 +81,21 @@ The repository is organized with the following structure :
 - [Meza Interactive Map](http://mezademo.charitableanalytics.org) - A demo of our web app
 
 
+## Meza API
+
+This API will be open for the duration of the hackathon. All the raw images, the processing images, the cell images and a csv containing the relationship between directory name and the sender phone number are available at :
+
+	http://mezademo.charitableanalytics.org/imgs/
+
+
+Use the interactive map to explore the data :
+
+	1. Click on a clinic
+	2. Click on one of the entry in the news feed
+	3. Right click on the image and open in a new tab
+	4. Play with the url to dive in the subdirectory
+
+
 ## Description of Charitable Analytics International
 
 CAI helps organizations understand their data through concrete insights. We offer
