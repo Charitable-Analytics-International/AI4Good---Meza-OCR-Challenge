@@ -1,5 +1,7 @@
 # Handwritten clinical records for Optical Character Recognition 
 
+![Screenshot](CAI-logo.png)
+
 The United Nations World Food Program (WFP) has tasked Charitable Analytics
 International (CAI) to develop a solution to it's digitization problem. WFP operates in
 over 80 countries, where they deliver much needed supplies to health clinics, schools,
