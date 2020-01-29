@@ -1,7 +1,5 @@
 # Handwritten clinical records for Optical Character Recognition 
 
-![Screenshot](CAI-logo.png)
-
 The United Nations World Food Program (WFP) has tasked Charitable Analytics
 International (CAI) to develop a solution to it's digitization problem. WFP operates in
 over 80 countries, where they deliver much needed supplies to health clinics, schools,
@@ -20,8 +18,8 @@ Our challenge for the AI4Good Hackathon is to develop a program able to convert 
 contained in the cell images into typed text. The provided training set contains labeled cell images of 
 handwritten numerical values. They come from health clinics in the Republic of Congo. 
 Use it to build your model and submit your validation set to our web server to see how you have done!
-
-- [Validation Web Server](http://mezademo.charitableanalytics.org:8080)
+<!-- 
+- [Validation Web Server](http://mezademo.charitableanalytics.org:8080) -->
 
 
 As a reference Google Vision gives a score of 35.63%
@@ -76,10 +74,10 @@ The repository is organized with the following structure :
 		|
 		|-> google_vision_validation_predictions.txt
 
-
+<!-- 
 ## Demo of Meza
 
-- [Meza Promo Video](https://youtu.be/G8NNF9lyKhA) - A video explanation of the Meza software stack
+- [Meza Promo Video](https://youtu.be/wlABTMQILg8) - A video explanation of the Meza software stack
 - [Meza Interactive Map](http://mezademo.charitableanalytics.org) - A demo of our web app
 
 
@@ -95,7 +93,7 @@ Use the interactive map to explore the data :
 	1. Click on a clinic
 	2. Click on one of the entry in the news feed
 	3. Right click on the image and open in a new tab
-	4. Play with the url to dive in the subdirectory
+	4. Play with the url to dive in the subdirectory -->
 
 
 ## Description of Charitable Analytics International
@@ -107,6 +105,9 @@ the United Nations World Food Program and the National Democratic Institute. Our
 core belief is that data technology can and should be a key tool in the mission to make
 the world a better place.
 
+[Meza Promo Video](https://youtu.be/wlABTMQILg8) - A video explanation of the Meza software stack
+
+![Screenshot](CAI-logo.png)
 
 ## Basics
 
